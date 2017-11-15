@@ -8,7 +8,7 @@
     <title>hello ci </title>
 </head>
 <body>
-<h3 onclick="trunto()">测试</h3>
+<h3 onclick="trunto()">11111</h3>
 <script>
     function trunto()
     {
